@@ -18,7 +18,7 @@ echo "== Debian detectado: $VERSION_CODENAME =="
 # =========================
 echo "== Atualizando sistema =="
 apt update -y
-apt upgrade -y
+
 
 # =========================
 # Pacotes base
