@@ -1,0 +1,11 @@
+
+---
+
+## 3️⃣ Criar o .gitignore
+Mesmo simples, é boa prática:
+
+```gitignore
+*.log
+*.swp
+*.bak
+.env
