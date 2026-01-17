@@ -1,4 +1,4 @@
-# Linux Web Stack Automation (NGINX)
+# Automoção de ambientes com scripts
 
 Script de automação para provisionamento de servidor Linux (Debian/Ubuntu) com stack web completa e hardening básico.
 
