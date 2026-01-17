@@ -3,7 +3,7 @@
 set -e
 
 echo "== Atualizando sistema =="
-apt update -y && apt upgrade -y
+apt update -y 
 
 echo "== Instalando pacotes base =="
 apt install -y \
